@@ -5,13 +5,13 @@ We also try to make use of SASS whereever we can.
 
 To `install` `sass` enter the following in the terminal:
 
-```scss
+```javascript
 npm install sass
 ```
 
 To `auto` `transcompile` enter the following in the terminal:
 
-```scss
+```javascript
 sass --watch sourcefile.scss:destinationfile.css
 ```
 
