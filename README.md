@@ -1,4 +1,4 @@
-# Vanilla Frontend Development Boilerplate
+# Vanilla Frontend Project Boilerplate
 
 This is a Frontend Development Boiler for Creatinf Vanilla(html, CSS, Javascript) Projects.
 We also try to make use of SASS whereever we can.
